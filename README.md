@@ -1,4 +1,4 @@
-# Java CompletableFuture를 이용한 병렬처리 리팩토링 사례
+## CompletableFuture를 이용한 병렬처리 리팩토링 사례
 
 ## 🔍 적용 배경
 
